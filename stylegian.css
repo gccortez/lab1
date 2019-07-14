@@ -1,0 +1,144 @@
+body {
+  background-image: url("Images/bg.jpg");
+  height: 100%; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header {
+  position: absolute;
+  font-size: 50px;
+  font-family: arial;
+  top: 350px;
+  right: 350px;
+}
+.headerabout {
+  position: relative;
+  font-size: 50px;
+  font-family: arial;
+  text-align: center;
+  background: url("Images/beige.jpg") 200px -20px no-repeat;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+.headertext {
+  background: url("Images/beige.jpg") -20px -20px no-repeat;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+#mySidenav a {
+  position: absolute;
+  left: -150px;
+  transition: 0.3s;
+  padding: 15px;
+  width: 300px;
+  height: 50px;
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+  border-radius: 0 5px 5px 0;
+}
+
+#mySidenav a:hover {
+  left: 0;
+}
+#home {
+  top: 220px;
+  background-color: #D2B48C;
+}
+
+#about {
+  top: 330px;
+  background-color: #D2B48C;
+}
+
+#accounts {
+  top: 440px;
+  background-color: #D2B48C;
+}
+
+.introduction {
+  background-color: #F5DEB3;
+  position: absolute;
+  right: 5%;
+  top: 20%;
+  font-size: 25px;
+  transition: 0.5s;
+}
+
+.introduction:hover {
+  background-color: #DEB887;
+}
+img.gian {
+  position: absolute;
+  top: 230px;
+  left: 350px;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+img.gian:hover {
+  opacity: 0.5;
+}
+
+#iconsacc {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+}
+
+img.trello {
+  position: absolute;
+  top: 50px;
+  left: 600px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+img.duolingo {
+  position: absolute;
+  top: 50px;
+  left: 900px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+img.outlook {
+  position: absolute;
+  top: 50px;
+  left: 1200px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+img.github {
+  position: absolute;
+  top: 250px;
+  left: 750px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+
+img.twitter {
+  position: absolute;
+  top: 250px;
+  left: 1050px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  transition: 1s;
+}
+.accs a:hover {
+  opacity: 0.5;
+}
+
