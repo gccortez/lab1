@@ -16,9 +16,9 @@
   <h1 class="headerintro">Gian Carlo C. Cortez</h1>
 </div>
 <div id="mySidenav" class="sidenav">
-  <a href="index.html" id="home">Home</a>
-  <a href="about.html" id="about">About me</a>
-  <a href="accounts.html" id="accounts">Accounts</a>
+  <a href="index.php" id="home">Home</a>
+  <a href="about.php" id="about">About me</a>
+  <a href="accounts.php" id="accounts">Accounts</a>
 </div>
 <div class="profpic">
   <a href="https://www.facebook.com/gncrlcrtz" target="_blank"><img src="Images/gian.jpg" class="gian"></a>
