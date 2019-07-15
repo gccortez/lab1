@@ -20,9 +20,9 @@
 	</div>
 
 	<div id="mySidenav" class="sidenav">
-	  <a href="index.html" id="home">Home</a>
-	  <a href="about.html" id="about">About</a>
-	  <a href="accounts.html" id="accounts">Accounts</a>
+	  <a href="index.php" id="home">Home</a>
+	  <a href="about.php" id="about">About</a>
+	  <a href="accounts.php" id="accounts">Accounts</a>
 	</div>
 </div>
 </html>
