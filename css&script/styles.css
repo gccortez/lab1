@@ -117,3 +117,14 @@ h1 {
   position: relative;
   padding-top: 20px;
 }
+
+#act3 {
+  position: relative;
+  text-align: center;
+  background-color: #e8dcca;
+  margin-top: 50px;
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: normal;
+  
+}
