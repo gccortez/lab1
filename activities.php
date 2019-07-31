@@ -140,25 +140,25 @@ or her desired floor number.
 
     </a>
 
-    <a href="https://www." target="_blank">
+    <a href="https://www.trello.com/giancortez" target="_blank">
 
       <img src="Images/trello.png"alt="trello" width="20" height="20">
 
     </a>
 
-    <a href="https://www." target="_blank">
+    <a href="https://www.duolingo.com/GianCortez5" target="_blank">
 
       <img src="Images/duolingo.png"alt="duolingo" width="20" height="20">
 
     </a>
     
-    <a href="https://www." target="_blank">
+    <a href="mailto:gccortez@student.apc.edu.ph" target="_blank">
 
       <img src="Images/outlook.png"alt="outlook" width="20" height="20">
 
     </a>
     
-    <a href="https://www." target="_blank">
+    <a href="https://www.github.com/gccortez" target="_blank">
 
       <img src="Images/github.png"alt="github" width="20" height="20">
 
