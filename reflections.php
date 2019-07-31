@@ -23,13 +23,13 @@
 
   <div id="navbar">
 
-  <a href="activities.html">
+  <a href="activities.php">
 
     Activities
 
   </a>
 
-  <a href="index.html">
+  <a href="index.php">
 
     Home
 
