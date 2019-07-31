@@ -23,13 +23,13 @@
 
   <div id="navbar">
 
-    <a href="reflections.html">
+    <a href="reflections.php">
 
       Reflections
 
     </a>
 
-    <a href="index.html">
+    <a href="index.php">
 
       Home
 
