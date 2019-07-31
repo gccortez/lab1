@@ -47,7 +47,7 @@
 
     </h1>
 
-    <div id="gian"><img src="images/gian.jpg" alt="gian" width="200" height="200"></div>
+    <div id="gian"><img src="Images/gian.jpg" alt="gian" width="200" height="200"></div>
 
     <pre>
 
