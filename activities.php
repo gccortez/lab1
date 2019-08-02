@@ -55,22 +55,28 @@
 
       <p>  
 
-There are a lot of applications used nowadays, my favorite apps are Twitter, Facebook
-messenger and Spotify. I started using twitter since 2014 and that is the app that I used to express how I
-feel through tweeting. Twitter used to become my friend back in the days since this is the app that I
-used a lot and I spent time with. I read about other people’s thoughts and opinions about stuff. What I
-also like about twitter is the community since they don’t really care, and they don’t judge you for what
-you tweet about. The features of twitter are it has night mode, it can darken the whole application if the
-user turns on the dark mode feature, also, the use of twitter is to express your thoughts through tweet.
-So, most likely, if you are using twitter, you will read a lot. Next, Facebook messenger, I used this a lot
-since this is often the tool that we use to communicate with our families, friends and loved ones. I like
-this app since it can communicate through chatting, voice calling and video calling. There are other
-features of this app like you can play mini games if you get bored or if you are waiting for a reply. Also,
-Facebook messenger has night mode which people can use if the interface is too bright or if the user
-does not want the white design. Lastly, Spotify. This is also my favorite since I love listening to music. It
-really helped me a lot to boost my energy when I listen to music. Spotify really helped me to boost my
-energy since most of the songs nowadays are streamed in Spotify. This is a music application so the
-feature of this app if that you can play songs anytime and anywhere.
+There are a lot of applications used nowadays. My favorite apps are Twitter, 
+Facebook messenger and Spotify. I started using twitter since 2014. I use it to 
+express how I feel through tweeting. Twitter used to become my friend back in the 
+days since I let it consume most of my time. I read about other people’s thoughts 
+and opinions about random stuff. What I also like about twitter is the community 
+beacuse you can tweet whatever you want whether it be a rant, or basically about 
+anything and people woudn’t mind at all. One feature of this app is the night 
+mode, which is used if the user prefers it dark.
+
+Next, Facebook messenger, I also use this a lot since this is often the tool 
+that is used to communicate with our families, friends and loved ones. I like 
+this app because you are able to communicate in various ways: chat, voice call 
+and/or video call. There are also games you can play if you are too bored or 
+waiting for a reply. Also, Facebook messenger has also a night mode like twitter 
+which people can use if the interface is too bright or if the user does not want 
+the white design. 
+
+Lastly, Spotify. It is a music application that enables people to listen to songs 
+of various artists, online or offline. This is also my favorite since I love 
+listening to music. It is convenient because I am able to download songs I love 
+and play it even if it is offline, anytime, anywhere. It really helped boost 
+my energy when I listen to music.
 
       </p>
       
